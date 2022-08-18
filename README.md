@@ -42,7 +42,14 @@ const aboutMe = {
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
- 
+ <div align="center">
+    <h1>Contribution Activity</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=julianluissoto&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" height="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianluissoto&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
+    <br>
+    <br>
+</div>
+
 
 
 Collapse
