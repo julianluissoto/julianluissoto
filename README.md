@@ -10,12 +10,12 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
-         css: ["Tailwind","Less", "Styled-Components"]
+         css: ["Tailwind", "Bootstrap","Less", "Styled-Components"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["PostgreSQL"],
+      databases: ["PostgreSQL", "Mongo DB"],
    },
   
 };
