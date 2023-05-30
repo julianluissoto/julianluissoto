@@ -9,7 +9,7 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
+         js: ["React", "Redux", "VTEX IO"],
          css: ["Tailwind", "Bootstrap","Less", "Styled-Components"]
       },
       backEnd: {
