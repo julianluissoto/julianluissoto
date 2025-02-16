@@ -6,21 +6,22 @@
 
 ```javascript
 const aboutMe = {  
-   code: [Javascript, HTML, CSS],
+   code: [Javascript, HTML, CSS, JAVA],
    technologies: {
       frontEnd: {
          js: ["React", "Redux", "Next", "VTEX IO"],
          css: ["Tailwind", "Bootstrap","Less", "Styled-Components"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express"],
+         JAVA: [Springboot]
       },
       databases: ["PostgreSQL", "Mongo DB"],
    },
   
 };
 ```
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Auth0, Sequelize**
+- 💬 Ask me about **JavaScript, Typescripy, React, Redux, HTML, CSS, Node JS, Java, Express, PostgreSQL, Auth0, Sequelize**
 
 - 📫 How to reach me **julianlasoto@gmail.com**
 
